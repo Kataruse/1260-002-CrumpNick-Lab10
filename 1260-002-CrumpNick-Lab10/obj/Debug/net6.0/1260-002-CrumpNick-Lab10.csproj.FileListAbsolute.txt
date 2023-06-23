@@ -1,0 +1,15 @@
+C:\Users\nicka\Documents\College Documents\Classes\CSCI 1260 - Intro to Comp. Sci. 2\Projects\1260-002-CrumpNick-Lab10\1260-002-CrumpNick-Lab10\bin\Debug\net6.0\1260-002-CrumpNick-Lab10.exe
+C:\Users\nicka\Documents\College Documents\Classes\CSCI 1260 - Intro to Comp. Sci. 2\Projects\1260-002-CrumpNick-Lab10\1260-002-CrumpNick-Lab10\bin\Debug\net6.0\1260-002-CrumpNick-Lab10.deps.json
+C:\Users\nicka\Documents\College Documents\Classes\CSCI 1260 - Intro to Comp. Sci. 2\Projects\1260-002-CrumpNick-Lab10\1260-002-CrumpNick-Lab10\bin\Debug\net6.0\1260-002-CrumpNick-Lab10.runtimeconfig.json
+C:\Users\nicka\Documents\College Documents\Classes\CSCI 1260 - Intro to Comp. Sci. 2\Projects\1260-002-CrumpNick-Lab10\1260-002-CrumpNick-Lab10\bin\Debug\net6.0\1260-002-CrumpNick-Lab10.dll
+C:\Users\nicka\Documents\College Documents\Classes\CSCI 1260 - Intro to Comp. Sci. 2\Projects\1260-002-CrumpNick-Lab10\1260-002-CrumpNick-Lab10\bin\Debug\net6.0\1260-002-CrumpNick-Lab10.pdb
+C:\Users\nicka\Documents\College Documents\Classes\CSCI 1260 - Intro to Comp. Sci. 2\Projects\1260-002-CrumpNick-Lab10\1260-002-CrumpNick-Lab10\obj\Debug\net6.0\1260-002-CrumpNick-Lab10.csproj.AssemblyReference.cache
+C:\Users\nicka\Documents\College Documents\Classes\CSCI 1260 - Intro to Comp. Sci. 2\Projects\1260-002-CrumpNick-Lab10\1260-002-CrumpNick-Lab10\obj\Debug\net6.0\1260-002-CrumpNick-Lab10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nicka\Documents\College Documents\Classes\CSCI 1260 - Intro to Comp. Sci. 2\Projects\1260-002-CrumpNick-Lab10\1260-002-CrumpNick-Lab10\obj\Debug\net6.0\1260-002-CrumpNick-Lab10.AssemblyInfoInputs.cache
+C:\Users\nicka\Documents\College Documents\Classes\CSCI 1260 - Intro to Comp. Sci. 2\Projects\1260-002-CrumpNick-Lab10\1260-002-CrumpNick-Lab10\obj\Debug\net6.0\1260-002-CrumpNick-Lab10.AssemblyInfo.cs
+C:\Users\nicka\Documents\College Documents\Classes\CSCI 1260 - Intro to Comp. Sci. 2\Projects\1260-002-CrumpNick-Lab10\1260-002-CrumpNick-Lab10\obj\Debug\net6.0\1260-002-CrumpNick-Lab10.csproj.CoreCompileInputs.cache
+C:\Users\nicka\Documents\College Documents\Classes\CSCI 1260 - Intro to Comp. Sci. 2\Projects\1260-002-CrumpNick-Lab10\1260-002-CrumpNick-Lab10\obj\Debug\net6.0\1260-002-CrumpNick-Lab10.dll
+C:\Users\nicka\Documents\College Documents\Classes\CSCI 1260 - Intro to Comp. Sci. 2\Projects\1260-002-CrumpNick-Lab10\1260-002-CrumpNick-Lab10\obj\Debug\net6.0\refint\1260-002-CrumpNick-Lab10.dll
+C:\Users\nicka\Documents\College Documents\Classes\CSCI 1260 - Intro to Comp. Sci. 2\Projects\1260-002-CrumpNick-Lab10\1260-002-CrumpNick-Lab10\obj\Debug\net6.0\1260-002-CrumpNick-Lab10.pdb
+C:\Users\nicka\Documents\College Documents\Classes\CSCI 1260 - Intro to Comp. Sci. 2\Projects\1260-002-CrumpNick-Lab10\1260-002-CrumpNick-Lab10\obj\Debug\net6.0\1260-002-CrumpNick-Lab10.genruntimeconfig.cache
+C:\Users\nicka\Documents\College Documents\Classes\CSCI 1260 - Intro to Comp. Sci. 2\Projects\1260-002-CrumpNick-Lab10\1260-002-CrumpNick-Lab10\obj\Debug\net6.0\ref\1260-002-CrumpNick-Lab10.dll

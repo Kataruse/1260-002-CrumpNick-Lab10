@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "s+UuLgTxZjBCS8fpRS3pZYrkl8x/4aSTSS44ol9Pm8vDM/6BfcwwrPN30+hNUxX//o7P2xal8cy7aVHKAaPuAQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\nicka\\Documents\\College Documents\\Classes\\CSCI 1260 - Intro to Comp. Sci. 2\\Projects\\1260-002-CrumpNick-Lab10\\1260-002-CrumpNick-Lab10\\1260-002-CrumpNick-Lab10.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\nicka\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.15\\microsoft.windowsdesktop.app.ref.6.0.15.nupkg.sha512",
+    "C:\\Users\\nicka\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.15\\microsoft.netcore.app.ref.6.0.15.nupkg.sha512",
+    "C:\\Users\\nicka\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.15\\microsoft.aspnetcore.app.ref.6.0.15.nupkg.sha512",
+    "C:\\Users\\nicka\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.15\\microsoft.netcore.app.host.win-x64.6.0.15.nupkg.sha512"
+  ],
+  "logs": []
+}
